@@ -1,0 +1,35 @@
+/* #ffe3ad #11af9a #e65027*/
+body {
+    background-image: url("assets/phoenixBlue.jpg");
+}
+
+.content {
+    text-align: center;
+    background-color: aliceblue;
+    margin: 0 auto;
+    padding: 45px;
+    width: 500px;
+    font-family: 'Londrina Solid', cursive;
+    font-size: 20px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+input[type=button], input[type=text] {
+    background-color: aliceblue;
+    font-family: 'Londrina Solid', cursive;
+    padding: 5px;
+    width: 200px;
+    text-align: center;
+    font-size: 15px;
+}
+
+input[type=button], input[type=submit] {
+    background-color: #e65027;
+    border: none;
+    font-family: 'Londrina Solid', cursive;
+    padding: 15px;
+    font-size: 20px;
+}
